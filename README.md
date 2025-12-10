@@ -1,2 +1,2 @@
-# py1
+# Python入门练手
 practice
